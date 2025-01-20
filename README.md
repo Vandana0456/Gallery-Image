@@ -8,7 +8,7 @@ This is a Image Gallery build by using HTML and CSS
 
 
 ## Demo
-You can explore the live demo of the Image Gallery [Here].
+You can explore the live demo of the Image Gallery [Here]( https://vandana0456.github.io/Gallery-Image/)
 
 
 ##  Built with
