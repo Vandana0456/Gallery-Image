@@ -2,6 +2,7 @@
 # Image Gallery
 This is a Image Gallery build by using HTML and CSS
 ## Screenshot
+![ImageGallery](https://github.com/user-attachments/assets/bdef4d80-cdc9-40b7-a5ea-9e798ee687c9)
 
 
 
